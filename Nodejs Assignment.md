@@ -10,7 +10,7 @@
 1. Do not use any framework like Express.js/Hapi.js for building the API endpoints in this assignment* 
 1. The assignment solutions should be uploaded on Github and links to Github repositories should be shared with the coach for code review. Make sure to add appropriate comments in code wherever possible.
 
-**Problem 1:** 
+**Problem 1:**
 
 Build an API to calculate current age of user from date of birth  
 
